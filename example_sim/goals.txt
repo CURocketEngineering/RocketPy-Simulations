@@ -1,0 +1,2 @@
+1) Input OpenRocket parameters into RocketPy
+2) List all of the variables that are outputs of RocketPy and can be exported
